@@ -1,0 +1,8 @@
+[
+  { "name": "Istituto Comprensivo Daniele Manin", "lat": 41.89660803015214, "lng": 12.498090531187172, "tipo": "Istituto Comprensivo" },
+  { "name": "Istituto Comprensivo Regina Elena", "lat": 41.910094083170144, "lng": 12.495148319700084, "tipo": "Istituto Comprensivo" },
+  { "name": "Liceo Scientifico Newton", "lat": 41.89086412759736, "lng": 12.508695064756692, "tipo": "Liceo Scientifico" },
+  { "name": "Liceo Scientifico Farnesina", "lat": 41.9268, "lng": 12.4317, "tipo": "Liceo Scientifico" },
+  { "name": "Liceo Classico Torquato Tasso", "lat": 41.90997032749569, "lng": 12.495936893146865, "tipo": "Liceo Classico" },
+  { "name": "ITIS Galileo Galilei", "lat": 41.89239740780586, "lng": 12.507974347020342, "tipo": "Istituto Tecnico" }
+]
